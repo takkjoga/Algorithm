@@ -1,0 +1,2 @@
+> amxml FlexUnitTest.mxml -library-path+=../libs/
+> adl -runtime /Library/AdoneAIRSDK/runtimes/air/mac FlexUnitTest.xml
